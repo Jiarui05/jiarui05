@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="28" viewBox="0 0 116 28" role="img" aria-label="Pi Agent"><title>Pi Agent</title><rect width="116" height="28" fill="#27272A"/><g transform="translate(3 0) scale(.035)">
+  <path fill="#F09082" d="M165.29 165.29H517.36V400H400V282.65H165.29Z"/>
+  <path fill="#4D9ABF" d="M165.29 282.65H282.65V400H400V517.36H282.65V634.72H165.29Z"/>
+  <path fill="#F1BE58" d="M517.36 400H634.72V634.72H517.36Z"/>
+</g><g transform="translate(28 0)"><title>PI AGENT</title><g shape-rendering="crispEdges"><rect width="88" height="28" fill="#27272a"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="440" y="175" textLength="640" font-weight="bold">PI AGENT</text></g></g></svg>

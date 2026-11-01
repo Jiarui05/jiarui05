@@ -1,63 +1,63 @@
+![Hedgehog avatar](./avatar.svg)
 
-<div align="center">
-  <img src="avatar.svg" width="150" height="150">
-</div>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+Student;AI+Agent+Development+Intern+%40+juzi.bot;Building+Serverless+Backends;Hackathon+Lover+%26+Winner)](https://git.io/typing-svg)
+### Hi, I'm Hedgeho9 👋
 
-</div>
+I'm **Jerry (Jiarui Li / 李佳睿)**, a final-year Software Engineering student.
 
-# Hi there, I'm Hedgeho9 👋
+I build full-stack products — desktop apps, backend services, and the tooling and infrastructure behind them.
 
-## 👨‍💻 About Me
+[Website](https://hedgeho9.cn) · [GitHub](https://github.com/hedgeho9X) · Chengdu, China
 
-🎓 **Year 3 Student** @ Sichuan University of Science and Engineering - Software Engineering
+**Now**
 
-💼 **Former Agent Development Intern** @ 句子互动 (juzi.bot)
+- 🪼 Engineer at **AirJelly** — building desktop features, backend services, observability, billing, and evaluation infrastructure.
 
-💡 Passionate about backend development and AI-powered applications. Currently building serverless backends and exploring AI Agent development.
+[![AirJelly desktop product](./images/projects/airjelly.webp)](https://airjelly.ai)
 
-- 🔭 Currently focusing on **AI Agent architecture**
-- 💻 Building with **Hono**, **Drizzle**, **TypeScript**
-- 🤖 Skilled in **Agent development**, **Context Engineering**, RAG systems
-- 🌱 Always learning and exploring new technologies
-- ⚡ Fun fact: I love fitness and hackathons!
+**Focus**
 
-## 🚀 Featured Projects
+Full-stack product engineering · Desktop systems · Reliability & observability · AI agents & evaluation
 
-### 🧠 Context-ID: Multi-Service Memory Middleware for AI Assistants
+**Experience & selected work**
 
-A high-performance memory middleware enabling AI assistants to maintain persistent, evolving user context across sessions.
+#### [JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu) · 2026.01–2026.05
 
-**Key Features:**
-- 🔄 **Hybrid Architecture**: GoFrame + LangGraph with gRPC bidirectional streaming
-- 🛡️ **Data Security**: PostgreSQL Row-Level Security for tenant isolation
-- 🧠 **Memory Evolution**: Memory Wheel system - Episodic → Semantic → Impression
+Former co-founder of an AI desktop companion that turns spoken ideas into printed task cards and notes. Reached **1M+ impressions across platforms**.
 
-**Tech Stack:** Go · LangGraph · gRPC · PostgreSQL · Redis
+[![JiliGuagua AI printing companion](./images/projects/jiliguagua.webp)](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu)
 
+**Award:** Gold Award in the AI × Game track at the Hangzhou Global Hackathon (January 2026).
 
-## 🏆 Awards & Achievements
+**Event participation:** ByteDance, Tencent, Alibaba, Apple, Xiaohongshu, Nokia and AWS events; the Global Developer Conference, World Artificial Intelligence Conference (WAIC), and [LET'S VISION 2026](https://letsvision.swiftgg.team/zh/booths).
 
-- 🥇 **Global Hackathon (Hosted by Watcha)** -  AI x Game Gold Winner
-- 🥇 **AdventureX Hackathon 2025** - 1st Place Winner
+**Media coverage:** CCTV, Zhejiang TV, [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html), Hong Kong Wen Wei Po, [City Express](https://mdaily.hangzhou.com.cn/dskb/2026/02/11/article_detail_2_20260211B022.html), and Shizilukou (十字路口).
 
-## 🌐 Connect With Me
+#### [juzi.bot](https://www.juzi.bot/) · 2025.09–2025.12
 
-<div align="center">
+AI Agent Development Intern. Worked on agent evaluation, conversational behavior, and agent development, while exploring proactive agent interactions.
 
-[![Website](https://img.shields.io/badge/Website-hedgeho9.cn-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hedgeho9.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-hedgeho9x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hedgeho9x)
+**Awards**
 
-</div>
+![Hackathon awards: AdventureX First Prize; Global Hackathon Gold Award; Build with Qwen Gold Winner; Red Hackathon Summit Silver Excellence Award; Dongmodi Bench Hackathon Most Useless Bench Award.](./images/hackathon-awards.svg)
+
+Selected as one of 200 builders worldwide for the Red Hackathon Summit.
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=hedgeho9x&color=58A6FF&style=for-the-badge&label=Profile+Views)
+**Stack**
 
-⭐️ From [hedgeho9x](https://github.com/hedgeho9x) | 💪 Fitness & Hackathon Lover |  📍 Chengdu,China
+[![TypeScript](./images/stack/typescript.svg)](https://www.typescriptlang.org/)
+[![Go](./images/stack/go.svg)](https://go.dev/)
+[![Hono](./images/stack/hono.svg)](https://hono.dev/)
+[![Drizzle](./images/stack/drizzle.svg)](https://orm.drizzle.team/)
+[![PostgreSQL](./images/stack/postgresql.svg)](https://www.postgresql.org/)
+[![Redis](./images/stack/redis.svg)](https://redis.io/)
+[![gRPC](./images/stack/grpc.svg)](https://grpc.io/)
+[![Electron](./images/stack/electron.svg)](https://www.electronjs.org/)
+[![Tauri](./images/stack/tauri.svg)](https://tauri.app/)
+[![SQLite](./images/stack/sqlite.svg)](https://sqlite.org/)
+[![Langfuse](./images/stack/langfuse-official.svg)](https://langfuse.com/)
+[![Pi Agent](./images/stack/pi-agent-official.svg)](https://github.com/earendil-works/pi/tree/main/packages/agent)
+[![AI SDK](./images/stack/ai-sdk.svg)](https://ai-sdk.dev/)
 
-</div>
+*Testing / exploring:* [![Midscene.js](./images/stack/midscene.svg)](https://midscenejs.com/)
