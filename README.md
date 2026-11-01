@@ -18,6 +18,8 @@ AirJelly is a context-aware desktop AI companion. It turns activity across your 
 
 My work spans desktop features, backend services, observability, and evaluation infrastructure.
 
+<a href="./images/projects/airjelly.webp"><img src="./images/projects/airjelly.webp" alt="AirJelly desktop product — click for full-size screenshot" width="280"></a>
+
 ## Experience & selected work
 
 ### [JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu) · 2026.01–2026.05
