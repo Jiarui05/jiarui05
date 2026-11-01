@@ -1,5 +1,3 @@
-![Hedgehog avatar](./avatar.svg)
-
 ### Hi, I'm Hedgeho9 👋
 
 I'm **Jerry (Jiarui Li / 李佳睿)**, a final-year Software Engineering student.
