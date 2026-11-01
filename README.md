@@ -1,48 +1,28 @@
-# Hi！ 👋
+# Hi!    I'm Jerry 👋
 
-I'm **Jerry (Jiarui Li / 李佳睿)**, a final-year Software Engineering student.
+> [!TIP]
+🎨 I like turning ideas into things people actually use.
 
-- 🪼 **Engineer @ [AirJelly](https://airjelly.ai)** — a desktop AI companion for work context and proactive assistance.
-- 💻 Full-stack development: desktop apps, backend infrastructure, and developer tools.
-- 🧩 Open-source contributor to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — [Weixin media delivery](https://github.com/NousResearch/hermes-agent/commit/498fc6780ebc21805bcd26f6de842d0aa722f66d).
+## 👨‍💻 About Me
 
-🌐 [hedgeho9.cn](https://hedgeho9.cn)
+- 🎓 Final-year Software Engineering student & full-stack engineer building AI-native products.
+- 🪼 **Engineer @ [AirJelly](https://airjelly.ai)** — a proactive AI assistant.
+- 🌱 Open-source contributor to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)**, an AI agent with persistent memory that learns from experience and grows with you.
+- 🏋️ Into fitness, hackathons, and bringing ambitious ideas to life.
 
-## Experience
+## 💼 Experience
+**[叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu)** 🗓️ Jan–May 2026
+- Former **co-founder** of an AI printing companion that turns spoken ideas into task cards and notes. 
+>[!IMPORTANT]
+  **👀10M+ impressions across platforms.** 
+  Featured by CCTV, Zhejiang TV and [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html); exhibited at [LET'S VISION 2026](https://letsvision.swiftgg.team/zh/booths) and [World Artificial Intelligence Conference 2026](https://zhuanlan.zhihu.com/p/2061569028116817380).
 
-- **[JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu)** · Former co-founder · **2026.01–2026.05**  
-  AI printing companion; **1M+ impressions across platforms**.
-- **[juzi.bot](https://www.juzi.bot/)** · AI Agent Development Intern · **2025.09–2025.12**  
-  Agent evaluation, development, and proactive interaction.
 
-<details>
-<summary>Photos, events & coverage</summary>
+**[juzi.bot](https://www.juzi.bot/)**  🗓️ Sep–Dec 2025
+- *AI Agent Development Intern* , Built agent evaluation pipelines and conversational agents, with a focus on context engineering and proactive interactions.
 
-**AirJelly · [airjelly.ai](https://airjelly.ai)**
 
-AirJelly remembers your work across apps and proactively helps with tasks, follow-ups, and daily summaries. My work spans desktop features, backend services, observability, and evaluation infrastructure.
-
-<a href="./images/projects/airjelly.webp"><img src="./images/projects/airjelly.webp" alt="AirJelly desktop product — click for full-size screenshot" width="280"></a>
-
-**JiliGuagua / 叽里呱呱**
-
-An AI desktop companion that turns spoken ideas into printed task cards and notes.
-
-<a href="./images/projects/jiliguagua-bonjour.jpg"><img src="./images/projects/jiliguagua-bonjour.jpg" alt="JiliGuagua at Bonjour Build — click for full-size photo" width="180"></a>
-
-**Award:** Gold Award in the AI × Game track at the Hangzhou Global Hackathon (January 2026).
-
-**Event participation:** ByteDance, Tencent, Alibaba, Apple, Xiaohongshu, Nokia and AWS events; the Global Developer Conference, World Artificial Intelligence Conference (WAIC), and [LET'S VISION 2026](https://letsvision.swiftgg.team/zh/booths).
-
-**Media coverage:** CCTV, Zhejiang TV, [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html), Hong Kong Wen Wei Po, [City Express](https://mdaily.hangzhou.com.cn/dskb/2026/02/11/article_detail_2_20260211B022.html), and Shizilukou (十字路口).
-
-**juzi.bot**
-
-Worked on agent evaluation, conversational behavior, and agent development, while exploring proactive agent interactions.
-
-</details>
-
-## Awards
+## 🏆 Awards
 
 <p><a href="https://gallery.adventure-x.cn/projects/185fc3a0-f58c-47dd-a99a-1d3ccbc7c718"><img src="./images/awards/adventurex-cloud.svg" alt="AdventureX — AI Cloud Deployment Track — First Prize" width="680"></a></p>
 <p><a href="https://mp.weixin.qq.com/s/KaIGtBPjL55rI2-My0ZQgg"><img src="./images/awards/global-ai-game.svg" alt="Global Hackathon — AI × Game Track — Gold Award" width="680"></a></p>
@@ -50,7 +30,7 @@ Worked on agent evaluation, conversational behavior, and agent development, whil
 <p><img src="./images/awards/red-hackathon.svg" alt="Red Hackathon Summit — Silver Excellence Award" width="680"></p>
 <p><a href="https://mp.weixin.qq.com/s/TionR7z4AIzdG94958wDrw"><img src="./images/awards/bench-hackathon.svg" alt="Dongmodi Bench Hackathon — Most Useless Bench Award" width="680"></a></p>
 
-## Stack
+## 🛠️ Stack
 
 [![TypeScript](./images/stack/typescript.svg)](https://www.typescriptlang.org/)
 [![Go](./images/stack/go.svg)](https://go.dev/)
