@@ -2,29 +2,31 @@
 
 I'm **Jerry (Jiarui Li / 李佳睿)**, a final-year Software Engineering student.
 
-I build full-stack products — desktop apps, backend services, and the tooling and infrastructure behind them.
+- 🪼 **Engineer @ [AirJelly](https://airjelly.ai)** — a desktop AI companion for work context and proactive assistance.
+- 💻 Full-stack development: desktop apps, backend infrastructure, and developer tools.
+- 🧩 Open-source contributor to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — [Weixin media delivery](https://github.com/NousResearch/hermes-agent/commit/498fc6780ebc21805bcd26f6de842d0aa722f66d).
 
-[Website](https://hedgeho9.cn) · [GitHub](https://github.com/hedgeho9X) · Chengdu, China
+🌐 [hedgeho9.cn](https://hedgeho9.cn)
 
-**Focus:** Full-stack product engineering · Desktop systems · Reliability & observability · AI agents & evaluation
+## Experience
 
-## Now
+- **[JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu)** · Former co-founder · **2026.01–2026.05**  
+  AI printing companion; **1M+ impressions across platforms**.
+- **[juzi.bot](https://www.juzi.bot/)** · AI Agent Development Intern · **2025.09–2025.12**  
+  Agent evaluation, development, and proactive interaction.
 
-### AirJelly · [airjelly.ai](https://airjelly.ai)
+<details>
+<summary>Photos, events & coverage</summary>
 
-**Engineer**
+**AirJelly · [airjelly.ai](https://airjelly.ai)**
 
-AirJelly is a context-aware desktop AI companion. It turns activity across your apps into searchable work context and memory, then proactively helps with tasks, follow-ups, and daily summaries.
-
-My work spans desktop features, backend services, observability, and evaluation infrastructure.
+AirJelly remembers your work across apps and proactively helps with tasks, follow-ups, and daily summaries. My work spans desktop features, backend services, observability, and evaluation infrastructure.
 
 <a href="./images/projects/airjelly.webp"><img src="./images/projects/airjelly.webp" alt="AirJelly desktop product — click for full-size screenshot" width="280"></a>
 
-## Experience & selected work
+**JiliGuagua / 叽里呱呱**
 
-### [JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu) · 2026.01–2026.05
-
-Former co-founder of an AI desktop companion that turns spoken ideas into printed task cards and notes. Reached **1M+ impressions across platforms**.
+An AI desktop companion that turns spoken ideas into printed task cards and notes.
 
 <a href="./images/projects/jiliguagua-bonjour.jpg"><img src="./images/projects/jiliguagua-bonjour.jpg" alt="JiliGuagua at Bonjour Build — click for full-size photo" width="180"></a>
 
@@ -34,21 +36,19 @@ Former co-founder of an AI desktop companion that turns spoken ideas into printe
 
 **Media coverage:** CCTV, Zhejiang TV, [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html), Hong Kong Wen Wei Po, [City Express](https://mdaily.hangzhou.com.cn/dskb/2026/02/11/article_detail_2_20260211B022.html), and Shizilukou (十字路口).
 
-### [juzi.bot](https://www.juzi.bot/) · 2025.09–2025.12
+**juzi.bot**
 
-AI Agent Development Intern. Worked on agent evaluation, conversational behavior, and agent development, while exploring proactive agent interactions.
+Worked on agent evaluation, conversational behavior, and agent development, while exploring proactive agent interactions.
+
+</details>
 
 ## Awards
 
-[![AdventureX — AI Cloud Deployment Track — First Prize](./images/awards/adventurex-cloud.svg)](https://gallery.adventure-x.cn/projects/185fc3a0-f58c-47dd-a99a-1d3ccbc7c718)
-
-[![Global Hackathon — AI × Game Track — Gold Award](./images/awards/global-ai-game.svg)](https://mp.weixin.qq.com/s/KaIGtBPjL55rI2-My0ZQgg)
-
-[![Build with Qwen — GenZ Creators — Gold Winner](./images/awards/qwen-genz.svg)](https://mp.weixin.qq.com/s/Ia0sguvWrBwNAl8Ezssdkw)
-
-![Red Hackathon Summit — D-Robotics Track — Silver Excellence Award](./images/awards/red-hackathon.svg)
-
-[![Dongmodi Bench Hackathon — Most Useless Bench Award](./images/awards/bench-hackathon.svg)](https://mp.weixin.qq.com/s/TionR7z4AIzdG94958wDrw)
+<p><a href="https://gallery.adventure-x.cn/projects/185fc3a0-f58c-47dd-a99a-1d3ccbc7c718"><img src="./images/awards/adventurex-cloud.svg" alt="AdventureX — AI Cloud Deployment Track — First Prize" width="680"></a></p>
+<p><a href="https://mp.weixin.qq.com/s/KaIGtBPjL55rI2-My0ZQgg"><img src="./images/awards/global-ai-game.svg" alt="Global Hackathon — AI × Game Track — Gold Award" width="680"></a></p>
+<p><a href="https://mp.weixin.qq.com/s/Ia0sguvWrBwNAl8Ezssdkw"><img src="./images/awards/qwen-genz.svg" alt="Build with Qwen — Gold Winner" width="680"></a></p>
+<p><img src="./images/awards/red-hackathon.svg" alt="Red Hackathon Summit — Silver Excellence Award" width="680"></p>
+<p><a href="https://mp.weixin.qq.com/s/TionR7z4AIzdG94958wDrw"><img src="./images/awards/bench-hackathon.svg" alt="Dongmodi Bench Hackathon — Most Useless Bench Award" width="680"></a></p>
 
 ## Stack
 
