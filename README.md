@@ -1,4 +1,4 @@
-### Hi, I'm Hedgeho9 👋
+# Hi, I'm Hedgeho9 👋
 
 I'm **Jerry (Jiarui Li / 李佳睿)**, a final-year Software Engineering student.
 
@@ -6,23 +6,23 @@ I build full-stack products — desktop apps, backend services, and the tooling 
 
 [Website](https://hedgeho9.cn) · [GitHub](https://github.com/hedgeho9X) · Chengdu, China
 
-**Now**
+**Focus:** Full-stack product engineering · Desktop systems · Reliability & observability · AI agents & evaluation
 
-- 🪼 Engineer at **AirJelly** — building desktop features, backend services, observability, billing, and evaluation infrastructure.
+## Now
 
-[![AirJelly desktop product](./images/projects/airjelly.webp)](https://airjelly.ai)
+### AirJelly · [airjelly.ai](https://airjelly.ai)
 
-**Focus**
+**Engineer**
 
-Full-stack product engineering · Desktop systems · Reliability & observability · AI agents & evaluation
+AirJelly is a context-aware desktop AI companion. It turns activity across your apps into searchable work context and memory, then proactively helps with tasks, follow-ups, and daily summaries.
 
-**Experience & selected work**
+My work spans desktop features, backend services, observability, and evaluation infrastructure.
 
-#### [JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu) · 2026.01–2026.05
+## Experience & selected work
+
+### [JiliGuagua / 叽里呱呱](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu) · 2026.01–2026.05
 
 Former co-founder of an AI desktop companion that turns spoken ideas into printed task cards and notes. Reached **1M+ impressions across platforms**.
-
-[![JiliGuagua AI printing companion](./images/projects/jiliguagua.webp)](https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu)
 
 **Award:** Gold Award in the AI × Game track at the Hangzhou Global Hackathon (January 2026).
 
@@ -30,19 +30,23 @@ Former co-founder of an AI desktop companion that turns spoken ideas into printe
 
 **Media coverage:** CCTV, Zhejiang TV, [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html), Hong Kong Wen Wei Po, [City Express](https://mdaily.hangzhou.com.cn/dskb/2026/02/11/article_detail_2_20260211B022.html), and Shizilukou (十字路口).
 
-#### [juzi.bot](https://www.juzi.bot/) · 2025.09–2025.12
+### [juzi.bot](https://www.juzi.bot/) · 2025.09–2025.12
 
 AI Agent Development Intern. Worked on agent evaluation, conversational behavior, and agent development, while exploring proactive agent interactions.
 
-**Awards**
+## Awards
 
-![Hackathon awards: AdventureX First Prize; Global Hackathon Gold Award; Build with Qwen Gold Winner; Red Hackathon Summit Silver Excellence Award; Dongmodi Bench Hackathon Most Useless Bench Award.](./images/hackathon-awards.svg)
+[![AdventureX — AI Cloud Deployment Track — First Prize](./images/awards/adventurex-cloud.svg)](https://gallery.adventure-x.cn/projects/185fc3a0-f58c-47dd-a99a-1d3ccbc7c718)
 
-Selected as one of 200 builders worldwide for the Red Hackathon Summit.
+[![Global Hackathon — AI × Game Track — Gold Award](./images/awards/global-ai-game.svg)](https://mp.weixin.qq.com/s/KaIGtBPjL55rI2-My0ZQgg)
 
----
+[![Build with Qwen — GenZ Creators — Gold Winner](./images/awards/qwen-genz.svg)](https://mp.weixin.qq.com/s/Ia0sguvWrBwNAl8Ezssdkw)
 
-**Stack**
+![Red Hackathon Summit — D-Robotics Track — Silver Excellence Award](./images/awards/red-hackathon.svg)
+
+[![Dongmodi Bench Hackathon — Most Useless Bench Award](./images/awards/bench-hackathon.svg)](https://mp.weixin.qq.com/s/TionR7z4AIzdG94958wDrw)
+
+## Stack
 
 [![TypeScript](./images/stack/typescript.svg)](https://www.typescriptlang.org/)
 [![Go](./images/stack/go.svg)](https://go.dev/)
@@ -57,5 +61,4 @@ Selected as one of 200 builders worldwide for the Red Hackathon Summit.
 [![Langfuse](./images/stack/langfuse-official.svg)](https://langfuse.com/)
 [![Pi Agent](./images/stack/pi-agent-official.svg)](https://github.com/earendil-works/pi/tree/main/packages/agent)
 [![AI SDK](./images/stack/ai-sdk.svg)](https://ai-sdk.dev/)
-
-*Testing / exploring:* [![Midscene.js](./images/stack/midscene.svg)](https://midscenejs.com/)
+[![Midscene.js](./images/stack/midscene.svg)](https://midscenejs.com/)
