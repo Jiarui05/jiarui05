@@ -18,7 +18,7 @@
   Featured by CCTV, Zhejiang TV and [People's Daily](https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156053.html); exhibited at [LET'S VISION 2026](https://letsvision.swiftgg.team/zh/booths) and [World Artificial Intelligence Conference 2026](https://zhuanlan.zhihu.com/p/2061569028116817380).
 
 
-**[juzi.bot](https://www.juzi.bot/)**  🗓️ Sep–Dec 2025
+**[Juzi.bot](https://www.juzi.bot/)**  🗓️ Sep–Dec 2025
 - *AI Agent Development Intern* , Built agent evaluation pipelines and conversational agents, with a focus on context engineering and proactive interactions.
 
 
