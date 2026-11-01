@@ -45,3 +45,5 @@ https://shields.io/docs/logos
 - JiliGuagua public project photo (current project imagery): https://www.rtecommunity.dev/physical-ai-camp/projects/assets/base/jiligugu-product-2.png
   Source page: https://www.rtecommunity.dev/physical-ai-camp/cohort/jiligugu
 - Both images retain their original composition; only proportional resizing and WebP compression were applied. Photos represent public product imagery, not a claim that every pictured version was developed during Jerry’s tenure.
+
+- JiliGuagua at Bonjour Build: event photograph supplied by Jerry. Displayed at 180px width with its original composition preserved.

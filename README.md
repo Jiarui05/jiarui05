@@ -24,6 +24,8 @@ My work spans desktop features, backend services, observability, and evaluation 
 
 Former co-founder of an AI desktop companion that turns spoken ideas into printed task cards and notes. Reached **1M+ impressions across platforms**.
 
+<a href="./images/projects/jiliguagua-bonjour.jpg"><img src="./images/projects/jiliguagua-bonjour.jpg" alt="JiliGuagua at Bonjour Build — click for full-size photo" width="180"></a>
+
 **Award:** Gold Award in the AI × Game track at the Hangzhou Global Hackathon (January 2026).
 
 **Event participation:** ByteDance, Tencent, Alibaba, Apple, Xiaohongshu, Nokia and AWS events; the Global Developer Conference, World Artificial Intelligence Conference (WAIC), and [LET'S VISION 2026](https://letsvision.swiftgg.team/zh/booths).
