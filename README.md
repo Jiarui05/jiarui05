@@ -31,7 +31,7 @@
 <p><a href="https://mp.weixin.qq.com/s/TionR7z4AIzdG94958wDrw"><img src="./images/awards/bench-hackathon.svg" alt="Dongmodi Bench Hackathon — Most Useless Bench Award" width="680"></a></p>
 
 ## 🛠️ Stack
-
+# The tags below are just tags. High agency + AI — I can learn anything.
 [![TypeScript](./images/stack/typescript.svg)](https://www.typescriptlang.org/)
 [![Go](./images/stack/go.svg)](https://go.dev/)
 [![Hono](./images/stack/hono.svg)](https://hono.dev/)
